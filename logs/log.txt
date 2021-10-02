@@ -1,0 +1,3 @@
+2021-10-02 23:48:06 [main] [main] [41] INFO  com.epam.first.main.Main - Entity{value=1.1}
+2021-10-02 23:48:06 [main] [main] [41] INFO  com.epam.first.main.Main - Entity{value=22.1}
+2021-10-02 23:48:06 [main] [main] [41] INFO  com.epam.first.main.Main - Entity{value=24.1}

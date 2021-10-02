@@ -1,0 +1,2 @@
+2021-10-02 23:26:33 [main] [main] [37] INFO  com.epam.first.main.Main - Entity{value=1.1}
+2021-10-02 23:26:33 [main] [main] [37] INFO  com.epam.first.main.Main - Entity{value=3.1}
