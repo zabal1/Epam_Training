@@ -1,0 +1,4 @@
+2021-10-12 01:45:32 [main] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [67, 7, 5, 65, 5444, 23]
+2021-10-12 01:45:54 [Test worker] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [1]
+2021-10-12 01:45:54 [Test worker] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [2]
+2021-10-12 01:45:54 [Test worker] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [3]
