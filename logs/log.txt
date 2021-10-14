@@ -1,8 +1,0 @@
-2021-10-12 04:18:11 [Test worker] [stringToArrayInt] [30] ERROR epam.second.parser.impl.StringToIntImpl - File is empty
-2021-10-12 04:18:36 [Test worker] [isValid] [27] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [1, 2, 3]
-2021-10-12 04:18:36 [Test worker] [isValid] [23] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. []
-2021-10-12 04:18:36 [Test worker] [stringToArrayInt] [30] ERROR epam.second.parser.impl.StringToIntImpl - File is empty
-2021-10-12 04:18:36 [Test worker] [isValid] [27] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [1, 2, 3]
-2021-10-12 04:18:36 [Test worker] [isValid] [23] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [saq3]
-2021-10-12 04:18:46 [main] [isValid] [27] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [67, 7, 5, 65, 5444, 23]
-2021-10-12 04:18:46 [main] [main] [26] INFO  com.epam.second.main.Main - [5, 7, 23, 65, 67, 5444]

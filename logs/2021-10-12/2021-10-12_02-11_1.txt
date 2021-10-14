@@ -1,3 +1,0 @@
-2021-10-12 02:11:07 [Test worker] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [1, 2, 3]
-2021-10-12 02:11:33 [Test worker] [isValid] [22] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [1_, saq2, _3==+]
-2021-10-12 02:11:59 [Test worker] [isValid] [22] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [saq3]

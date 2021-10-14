@@ -1,5 +1,0 @@
-2021-10-12 04:05:28 [main] [isValid] [23] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [67;7;5;65;5444;23;]
-2021-10-12 04:05:41 [main] [isValid] [27] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [67, 7, 5, 65, 5444, 23]
-2021-10-12 04:05:41 [main] [isValid] [23] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [[67, 7, 5, 65, 5444, 23]]
-2021-10-12 04:05:41 [main] [stringToArrayInt] [33] ERROR epam.second.parser.impl.StringToIntImpl - File is empty
-2021-10-12 04:05:41 [main] [main] [27] INFO  com.epam.second.main.Main - []

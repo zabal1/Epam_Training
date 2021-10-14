@@ -1,2 +1,0 @@
-2021-10-12 04:13:45 [main] [isValid] [27] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [67, 7, 5, 65, 5444, 23]
-2021-10-12 04:13:45 [main] [main] [26] INFO  com.epam.second.main.Main - [5, 7, 23, 65, 67, 5444]

@@ -1,1 +1,0 @@
-2021-10-12 02:17:45 [main] [isValid] [22] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. []

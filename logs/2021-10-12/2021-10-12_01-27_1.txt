@@ -1,2 +1,0 @@
-2021-10-12 01:27:37 [Test worker] [isValid] [22] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [resources/FileWithNumbers.txt]
-2021-10-12 01:27:37 [Test worker] [stringToArrayInt] [33] ERROR epam.second.parser.impl.StringToIntImpl - File is empty

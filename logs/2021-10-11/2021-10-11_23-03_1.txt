@@ -1,3 +1,0 @@
-2021-10-11 23:03:01 [main] [isValid] [22] ERROR epam.second.validator.impl.StringValidatorImpl - The string is not valid. [67, 7, 5, 65, 6666666565444, 23]
-2021-10-11 23:03:45 [main] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [67, 7, 5, 65, 5444, 23]
-2021-10-11 23:03:47 [main] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [67, 7, 5, 65, 5444, 23]

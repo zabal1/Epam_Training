@@ -1,1 +1,0 @@
-2021-10-12 02:38:16 [Test worker] [isValid] [26] INFO  epam.second.validator.impl.StringValidatorImpl - The string is valid. [1, 2, 3]
